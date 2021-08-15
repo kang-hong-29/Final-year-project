@@ -1,4 +1,4 @@
-# Final-year-project
+# Final-year-project(Density based clustering)
 code of my FYP (Deep density-based clustering for images)
 
 ## Usage
